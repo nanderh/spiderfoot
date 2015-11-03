@@ -9,8 +9,6 @@ sudo easy_install pip
 
 sudo pip install netaddr --upgrade
 
-sudo pip install M2Crypto --upgrade
-
 sudo pip install cherrypy --upgrade
 
 sudo pip install mako --upgrade
